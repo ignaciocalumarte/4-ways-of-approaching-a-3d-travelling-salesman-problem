@@ -1,4 +1,4 @@
-# 4-ways-of-approaching-a-"3d-travelling-salesman"-problem
+# 4-ways-of-approaching-a-"3d-travelling-salesman"-problem_ Python 2.7
 Organising 1000 RGB colours using, Random Search, Hill Climb, Iterated Local Search and Genetic Algorithms
 
 Program is written in Python 2.7 and requires the colours.txt file to be in the same directory.
