@@ -18,12 +18,12 @@ runs = 1
 # 2 = Stochastic Hill Climb, num of iterations
 # 3 = Iterated Local Search, num of loops = num of pertubations, num of iterations 
 # 4 = Genetic Algorithm, pop_size, generations, parent_pool_size, Pm = Probability of Mutation, Ps is used for Rank Selection control
-question_number = 2
+question_number = 0
 
        
 #Parameters For questions 1-3                           
-number_of_loops = 0
-number_of_iterations = 1000000
+number_of_loops = 20
+number_of_iterations = 1000
 
 
 #Parameters For Question 4, Genetic Algorithm
