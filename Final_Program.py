@@ -56,7 +56,7 @@ def GetColours():
  
 
 # Taking two random points in the permutation, swapping them and reversing the permutation incuded    
-def Swap_And_Reverse(permutation):                                          # Explanation in report
+def Swap_And_Reverse(permutation):                                          
     start,end = sorted(random.sample(range(0,size),2))
     numbers_to_reverse = permutation[start:end+1]
     reversed_numbers_permutation = permutation[0:start]
@@ -129,7 +129,7 @@ def Initial_Population_With_Fitness(pop_size):
     population.sort(key=lambda elm : elm[1])                    # Sorts the population due to fitness
     return population
 
-# Rank selection for selecting parents from parent pool, explained in report
+# Rank selection for selecting parents from parent pool,
 def Rank_Selection(population,parent_pool,parent_pool_size,Ps):
     parents =[]
     p = 0
