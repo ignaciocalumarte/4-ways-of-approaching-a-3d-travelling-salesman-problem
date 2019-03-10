@@ -9,7 +9,7 @@ import time
 size = 1000
 
 
-# Choose the number of time you wish to run the algorithm
+# Number of times you wish to run the chosen algorithm
 runs = 1
 
 # Choose solution type
