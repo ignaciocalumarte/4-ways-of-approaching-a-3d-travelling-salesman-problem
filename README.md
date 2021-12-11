@@ -7,6 +7,6 @@ Program is written in Python 2.7 and requires the colours.txt file to be in the 
 
 All options are clear at the top of the script.
 
-You can easily experiment with all the settings of the Genetic ALgorithm.
+You can easily experiment with all the settings of the Genetic Algorithm.
 
 Suggestions welcome!!!!
