@@ -1,4 +1,4 @@
-# 4-ways-of-approaching-a-"3d-travelling-salesman"-problem_ Python 2.7
+# 4_ways_of_approaching_a_"3d-travelling-salesman"_problem_Python_2.7
 
 
 Organising up to 1000 RGB colours using, Random Search, Hill Climb, Iterated Local Search and Genetic Algorithms
